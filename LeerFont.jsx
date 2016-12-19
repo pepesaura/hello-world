@@ -7,6 +7,9 @@
 	a) Se crea una capa de texto utilizando el tipo de fuente cuyo nombre queremos determinar
 	b) Se ejecuta el script LeerFont y aparecerá un mensaje de alerta con el nombre
 	c) Utilizarlo tal cual.
+	
+	Solamente he abierto este archivo para ver si el sistema para hacer las tareas de mi curso de Coursera es hacer un Fork de los archivos originales. Todava no entiendo la diferencia entre clonar y forkar.
+	
 */
 
 var capa = activeDocument.artLayers[0];
